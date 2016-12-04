@@ -1,0 +1,10 @@
+firefox
+geany
+openbox
+python
+python-numpy
+pyxdg
+unzip
+wget
+x11vnc
+xorg-server-xvfb
