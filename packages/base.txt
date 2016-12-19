@@ -1,9 +1,10 @@
 firefox
 geany
+inetsim
 openbox
-python
 python-numpy
 pyxdg
+rdesktop
 unzip
 wget
 x11vnc
