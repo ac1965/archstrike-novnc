@@ -1,6 +1,5 @@
 firefox
 geany
-inetsim
 openbox
 python-numpy
 pyxdg
