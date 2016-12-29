@@ -1,3 +1,4 @@
+archstrike-openbox-config
 firefox
 geany
 openbox
